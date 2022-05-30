@@ -19,3 +19,7 @@ WHEN I click on a city in the search history
 THEN I am again presented with current and future conditions for that city
 
 Using the OpenWeather One Call API to retrieve data for cities.
+
+Deployed Site: https://adryq.github.io/Weather-Dashboard/
+
+<img width="1262" alt="Screen Shot - WDB" src="https://user-images.githubusercontent.com/101481761/170910891-8b543adb-a616-42e9-ae51-320f71fbab09.png">
