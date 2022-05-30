@@ -1,0 +1,50 @@
+#header{
+    background-size: cover;
+    background-position-y: 35%;
+    color:white;
+    background-color: rgb(8, 88, 150);
+    position:relative !important;
+}
+
+h1{
+    font-size: 45px;
+    color: white;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.jumbotron {
+    padding: 2px;
+    border-radius: 0;
+}
+
+#search-city{
+    width: 80%;
+}
+
+#search-button-icon{
+    width:15px;
+    display:inline-block;
+}
+
+#current-weather {
+    padding-left: 15px;
+}
+
+
+#clear-storage{
+    color:grey;
+    text-decoration: none;
+    font-size: 15px;
+    margin: 1px;
+}
+
+
+.weather-card{
+    width: 9rem;
+    background-color: rgb(43, 118, 176);
+    color: white;
+    text-align: center;
+}
+
